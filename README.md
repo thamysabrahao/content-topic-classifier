@@ -8,6 +8,7 @@ The model predicts **3 topics per content item** using a combination of sentence
 
 ## Repository Structure
 
+```
 content-topic-classifier/
 ├─ README.md <- Top-level README for developers and users
 ├─ requirements.txt <- Python dependencies needed to run the notebooks and scripts
@@ -15,6 +16,7 @@ content-topic-classifier/
 ├─ prediction_example.ipynb <- Example notebook showing how to load the model and make predictions on new data
 ├─ common_functions.py <- Utility functions reused across notebooks and scripts
 ├─ model_api.py <- TopicPredictor class for loading the model and generating topic predictions
+```
 
 ## Installation
 
