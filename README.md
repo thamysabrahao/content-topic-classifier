@@ -23,14 +23,15 @@ content-topic-classifier/
 ```bash
 git clone https://github.com/your-username/content-topic-classifier.git
 cd content-topic-classifier
+```
 
-Create a virtual environment and install dependencies:
+2. Create a virtual environment and install dependencies:
 python3 -m venv venv
 source venv/bin/activate 
 pip install -r requirements.txt
-```
 
-To run the full pipeline:
+
+3. To run the full pipeline:
 - Open and run the classifier_model.ipynb to train the model;
 - Use prediction_example.ipynb to see how predictions are made on new content.
 
