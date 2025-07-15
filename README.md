@@ -26,10 +26,12 @@ cd content-topic-classifier
 ```
 
 2. Create a virtual environment and install dependencies:
+
+```
 python3 -m venv venv
 source venv/bin/activate 
 pip install -r requirements.txt
-
+```
 
 3. To run the full pipeline:
 - Open and run the classifier_model.ipynb to train the model;
