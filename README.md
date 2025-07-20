@@ -90,8 +90,8 @@ The classifier was built based on business rules designed to accelerate developm
 
 ## Next steps: 
 
-- Try out other models to see if we can get better performance.
-
+- Try out other models and and fine-tuning to improve performance.
+  
 - Add more training examples to help the model fine-tune and generalize better.
 
 - Build a feature engineering process to improve classification and recommendations, focusing on things like:
